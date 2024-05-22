@@ -2,7 +2,10 @@
 Syntax for Service and Deployment
 
 Clone this repo
-git clone 
+```
+git clone https://github.com/atulkamble/k8s-01.git
+cd k8s-01
+```
 ```
 // apply files to kubenetes cluster
 kubectl apply -f .\deployment.yaml
