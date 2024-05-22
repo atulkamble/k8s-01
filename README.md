@@ -1,5 +1,8 @@
 # k8s-01
 Syntax for Service and Deployment
+
+Clone this repo
+git clone 
 ```
 // apply files to kubenetes cluster
 kubectl apply -f .\deployment.yaml
